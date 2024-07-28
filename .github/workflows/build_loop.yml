@@ -290,9 +290,11 @@ jobs:
           override_sens \
           now_line \
           lnl_icon \
+          watch_title \
+          meal_week \
           2002 \
           basal_lock \
-          watch_title
+          live_activity
 
           # the final customization listed above CANNOT have a continuation character "\"
           # more customizations can be pasted after this line
